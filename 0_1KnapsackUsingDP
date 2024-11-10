@@ -1,4 +1,4 @@
-e
+
 //include needed packages
 #include <stdio.h>
 //function that check max of two elements.In this program it check max of profits when included or exclude the items
