@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <stdlib.h>
 #define max 100
-int adjMatrix[max][max];
+int adjMatrix[max][max] = {0};
 int queue[max];
 int front =0;
 int rear =-1;
